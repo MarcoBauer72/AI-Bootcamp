@@ -1,0 +1,11 @@
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\bin\Debug\netcoreapp2.0\PictureBot.deps.json
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\bin\Debug\netcoreapp2.0\PictureBot.runtimeconfig.json
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\bin\Debug\netcoreapp2.0\PictureBot.runtimeconfig.dev.json
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\bin\Debug\netcoreapp2.0\PictureBot.dll
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\bin\Debug\netcoreapp2.0\PictureBot.pdb
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\obj\Debug\netcoreapp2.0\PictureBot.csprojAssemblyReference.cache
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\obj\Debug\netcoreapp2.0\PictureBot.csproj.CoreCompileInputs.cache
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\obj\Debug\netcoreapp2.0\PictureBot.AssemblyInfoInputs.cache
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\obj\Debug\netcoreapp2.0\PictureBot.AssemblyInfo.cs
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\obj\Debug\netcoreapp2.0\PictureBot.dll
+D:\OneDrive\Microsoft\Training\Instructor\AI-100\LearnAI-Bootcamp-master\LearnAI-Bootcamp-master\lab02.3-bing_search\resources\code\FinishedPictureBot-Bing\obj\Debug\netcoreapp2.0\PictureBot.pdb
